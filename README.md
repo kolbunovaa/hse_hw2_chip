@@ -58,8 +58,10 @@
 
 
 ### Бонус
+![](https://github.com/kolbunovaa/images/blob/main/h2afz.png)
 |  |  |
 | --- | --- |
 |![](https://github.com/kolbunovaa/images/blob/main/result.png)|![](https://github.com/kolbunovaa/images/blob/main/result2.png)|
+Как видно, полученные графики распределения гистоновой метки H2AFZ, совпадают с предложенной картинкой. Почти в самом начале имеется пик, который 
 
 
