@@ -1,5 +1,7 @@
 # hse_hw2_chip
 
+Ссылка на колаб: https://colab.research.google.com/drive/1E_tW74_XhvedGc9IWk1C6O8K3zXkPab4?usp=sharing
+
 ### FastQ-анализ исходных файлов
 
 Контроль (ENCFF829PCB)
@@ -53,4 +55,11 @@
 |  |  |
 | --- | --- |
 |![](https://github.com/kolbunovaa/images/blob/main/QWJ_peak1.png)|![](https://github.com/kolbunovaa/images/blob/main/QWJ_peak2.png)|
+
+
+### Бонус
+|  |  |
+| --- | --- |
+|![](https://github.com/kolbunovaa/images/blob/main/result.png)|![](https://github.com/kolbunovaa/images/blob/main/result2.png)|
+
 
