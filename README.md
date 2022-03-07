@@ -42,3 +42,15 @@
 |Кол-во некартированных ридов|35328205 (83.03%)|32732091 (84.28%)|61657849 (83.34%)|
 
 Такой большой процент некартированных чтений связан с тем, что выравнивание происходило только на одну хромосому
+
+### Диаграммы Венна
+#### ENCFF598PWF
+|  |  |
+| --- | --- |
+|![](https://github.com/kolbunovaa/images/blob/main/PWF_peak1.png)|![](https://github.com/kolbunovaa/images/blob/main/PWF_peak2.png)|
+
+#### ENCFF700QWJ
+|  |  |
+| --- | --- |
+|![](https://github.com/kolbunovaa/images/blob/main/QWJ_peak1.png)|![](https://github.com/kolbunovaa/images/blob/main/QWJ_peak2.png)|
+
