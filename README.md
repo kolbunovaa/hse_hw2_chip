@@ -2,7 +2,7 @@
 
 Ссылка на колаб: https://colab.research.google.com/drive/1E_tW74_XhvedGc9IWk1C6O8K3zXkPab4?usp=sharing
 
-### FastQ-анализ исходных файлов
+### FastQC-анализ исходных файлов
 
 Контроль (ENCFF829PCB)
 
