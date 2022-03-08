@@ -1,6 +1,8 @@
 # hse_hw2_chip
 
 Ссылка на колаб: https://colab.research.google.com/drive/1E_tW74_XhvedGc9IWk1C6O8K3zXkPab4?usp=sharing
+Клеточная линия PC-3, гистоновая метка H2AFZ 
+Реплики ENCFF598PWF, ENCFF700QWJ; контроль ENCFF829PCB
 
 ### FastQC-анализ исходных файлов
 
